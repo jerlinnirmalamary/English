@@ -10,11 +10,43 @@ instant = உடனடி.
 
 instead = பதிலாக.
 
+yield = விளைச்சல்.
+
+surrogate mother = வாடகை தாய்
+
+crops = பயிர்கள்.
+
 ensured = உறுதி செய்யப்பட்டது.
 
 tail = வால்.
 
 mane = மேனி.
+
+Beast = மிருகம்.
+
+crowbar = கடப்பாரை.
+
+spade = மண்வெட்டி. stick type
+
+Hoe = மண்வெட்டி.  we use old model (Oooo)
+
+shovel = மண்வெட்டி water stick type water மண்வெட்டி
+
+sickle = அரிவாள்
+
+Hammer = சுத்தி
+
+Mallet = மரச்சுத்தி
+
+Axe = கோடாரி.
+
+daughter in law = மருமகள்.
+
+harvest = அறுவடை.
+
+son in law = மருமகன்.
+
+grand daughter = பேத்தி
 
 citrus fruits = சிட்ரஸ் பழங்கள்.
 
@@ -30,11 +62,19 @@ motion = இயக்கம். (runing the bus).
 
 alight = இறங்கு.
 
+wound = காயம்.
+
 heavy shower = கன மழை.
 
 he abandon us = அவர் நம்மை கைவிடுகிறார்
 
 earliest = ஆரம்ப.
+
+yeah = ஆம்.
+
+yard = நீட்டளவு,  home sarounding place.
+
+yell = கத்தவும்.
 
 continent = கண்டம்.
 
@@ -70,9 +110,44 @@ in the stable  = தொழுவத்தில்.
 
 throttling = திணறல்.
 
+Humanity = மனிதநேயம்
+
+humility = பணிவு
+
+Wonder = அதிசயம்
+
+negligence = அலட்சியம்
+
+Enthusiasm = உற்சாகம் (dont loose ur Enthusiasm)
+
+religious fanaticism = மத வெறி
+
+hypocrisy = பாசாங்குத்தனம் , கபட நாடகம் acting
+
+ingratitude = நன்றியின்மை, செய் நன்றி மறத்தல்
 
 
+Malice = தீமை ,வன்மம், பிறருக்கு கெடுதல் செய்யும்
 
+dignity = கௌரவம்
+
+humour = நகைச்சுவை he is a humour = அவர் நகைச்சுவையாளர்
+
+intuition = உள்ளுணர்வு
+
+despair = நம்பிக்கையின்மை, விரக்தி
+
+patience = பொறுமை.
+
+impatience = பொறுமையின்மை
+
+irresponsibility = பொறுப்பற்ற தன்மை
+
+stubbornness = பிடிவாதம்
+
+foolishness = முட்டாள்தனம்
+
+gratitude = நன்றியுணர்வு
 
 
 
