@@ -76,21 +76,21 @@ yard = நீட்டளவு,  home sarounding place.
 
 yell = கத்தவும்.
 
-continent = கண்டம்.
+continent = கண்டம். //
 
 sour = புளிப்பான.
 
 sore = புண்.
 
-insects = பூச்சிகள்.
+insects = பூச்சிகள். //
 
-barn = கொட்டகை.
+barn = கொட்டகை. //
 
 farm = பண்ணை.
 
 grains = தானியங்கள்.
 
-worms = புழுக்கள்.
+worms = புழுக்கள். //
 
 hay = வைக்கோல்.
 
@@ -100,9 +100,9 @@ hats off you = உங்களுக்கு வாழ்த்துகள்.
 
 countryside = கிராமப்புறம்.
 
-curious = ஆர்வமாக.
+curious = ஆர்வமாக. //
 
-belongings = உடமைகள்.
+belongings = உடமைகள். //
 
 green lawn = பச்சை புல்வெளி.
 
@@ -114,28 +114,27 @@ Humanity = மனிதநேயம்
 
 humility = பணிவு
 
-Wonder = அதிசயம்
+Wonder = அதிசயம்//
 
 negligence = அலட்சியம்
 
 Enthusiasm = உற்சாகம் (dont loose ur Enthusiasm)
 
-religious fanaticism = மத வெறி
+religious fanaticism = மத வெறி //
 
-hypocrisy = பாசாங்குத்தனம் , கபட நாடகம் acting
+hypocrisy = பாசாங்குத்தனம் , கபட நாடகம் acting //
 
-ingratitude = நன்றியின்மை, செய் நன்றி மறத்தல்
+ingratitude = நன்றியின்மை, செய் நன்றி மறத்தல் 
 
+Malice = தீமை ,வன்மம், பிறருக்கு கெடுதல் செய்யும் //
 
-Malice = தீமை ,வன்மம், பிறருக்கு கெடுதல் செய்யும்
-
-dignity = கௌரவம்
+dignity = கௌரவம் //
 
 humour = நகைச்சுவை he is a humour = அவர் நகைச்சுவையாளர்
 
-intuition = உள்ளுணர்வு
+intuition = உள்ளுணர்வு //
 
-despair = நம்பிக்கையின்மை, விரக்தி
+despair = நம்பிக்கையின்மை, விரக்தி //
 
 patience = பொறுமை.
 
@@ -149,49 +148,21 @@ foolishness = முட்டாள்தனம்
 
 gratitude = நன்றியுணர்வு
 
+expose = வெளிப்படுத்து
 
+snail = நத்தை
 
+moist = ஈரமான
 
+brown shell = பழுப்பு ஓடு
 
+meadow = புல்வெளி
 
+calf = கன்று
 
+grazing = மேய்ச்சல்
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Gazing up = நிமிர்ந்து பார்க்கிறது
 
 
 
